@@ -1,0 +1,2 @@
+terdapat beberapa nilai yang akan di masukkan ke dalam rak terdapat 4 buah kertas berisi nilai dengan deret nilai 75, 65, 80 dan 70 untuk input yang akan dimasukkan adalah  Jumlah total data (N),
+Deret nilai (n1, n2, …, n), Kode kelompok siswa dan buatkan program yang dapat menghitung total nilai kelompok yang diminta
